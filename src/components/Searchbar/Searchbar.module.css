@@ -1,0 +1,22 @@
+.searchbar {
+  background-color: tomato;
+  margin-top: 0px;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.button {
+  border: 0;
+}
+.form {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.input {
+  border: 0px;
+  outline: 0px;
+}
