@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Searchbar from './Searchbar/Searchbar';
 import fetchGallery from '../Api/ApiServise';
+import 'react-toastify/dist/ReactToastify.css';
 import { Loader } from './Loader/Loader';
 import { ToastContainer, toast } from 'react-toastify';
 import { LoadMoreBtn } from 'components/Button/Button';
